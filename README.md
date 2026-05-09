@@ -162,5 +162,3 @@ This project is for **educational and analytical purposes only**. IPL data belon
 ## 🤝 Contributing
 
 Feel free to fork, open issues, or submit pull requests to extend the analysis!
-# ipl_de
-# ipl_de
